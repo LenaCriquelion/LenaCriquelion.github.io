@@ -14,6 +14,8 @@ body{ background-color:gray}
     border: 0.08em solid black;
     text-align: center;
 }
+.titre
+{ text-decoration: underline overline;}
 .footer
 { 
     background-color: rgb(145, 140, 140);
