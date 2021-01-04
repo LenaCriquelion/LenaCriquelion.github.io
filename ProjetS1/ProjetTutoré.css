@@ -1,0 +1,149 @@
+* {
+  font-family: helvetica;
+}
+header img {
+  width: auto;
+  height: 70px;
+}
+header {
+  background-color: #BCBCBC;
+  height: 70px;
+  padding-bottom: 1%;
+  padding-left: 15px;
+}
+header a {
+  color: black;
+  text-decoration: none;
+  padding-right: 30px;
+}
+body {
+  font-size: 15px;
+}
+h2 {
+  text-align: center;
+  color: #E71D73;
+  font-weight: bold;
+}
+h5 {
+  color: black;
+  font-weight: bold;
+}
+.entete {
+  padding-left: 40%;
+}
+.col-md-6 img {
+  width: 100%;
+  padding-bottom: 3%;
+}
+#crepuq {
+  padding-top: 8%;
+}
+.topnav li {
+  display: inline;
+}
+ul.topnav {
+  padding-left: 1%;
+}
+#menu {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-size:15px;
+  top: 700px;
+}
+#bandeauTxt1 {
+  height:30%;
+  text-shadow: 5px 5px black;
+  text-align: center;
+  font-size: 4em;
+  color: #E71D73;
+  margin-top:1%;
+  background-image: url(Images/partiraletranger.jpg);
+  margin:0;
+}
+#menu li a {
+  text-decoration: none;
+  color:black;
+}
+#menu li {
+  list-style-type:none;
+  display: inline-block;
+}
+#menu a {
+  width: 100%;
+  height: 100%;
+  color: rgb(14, 13, 13);
+  text-decoration: none;
+}
+.pull-right {
+  position: absolute;
+  right: 5px;
+  top: 17px;
+  font-size: 20px;
+}
+.pull-right a:hover {
+  text-decoration: none;
+}
+footer {
+  bottom:0px;
+  background-color: #BCBCBC;
+}
+.partir {
+  padding-bottom:10%;
+  padding-top:10%;
+}
+hr {
+  background-color: #BCBCBC;
+}
+.dropdown-item:hover {
+  opacity: 0.4;
+}
+.navbar-nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+.formations {
+  margin-left: -90%;
+}
+.international {
+  margin-left:-80%;
+}
+.vie {
+  margin-left:-100%;
+}
+.entreprise {
+  margin-left: -75%;
+}
+.iut {
+  margin-left:-150%;
+}
+h6 {
+  font-size:15px;
+}
+.col-md-2 a {
+  font-size:15px;
+}
+.vert a {
+  color:#00AF9E;
+}
+.rose a {
+  color:#E71D73;
+}
+.orange a {
+  color:#EB8915;
+}
+.violet a {
+  color:#A24392;
+}
+.bleu a {
+  color:#044883;
+}
+.navbar-light .navbar-nav .nav-link {
+  color:black;
+}
+.topnav a:hover {
+  color:#E71D73;
+}
+.pull-right a:hover {
+  color: #E71D73;
+}

@@ -1,0 +1,45 @@
+body{ background-color:gray}
+      
+.navbar-brand{
+  color:white;
+}
+.nav-link  {
+  color:white;
+}
+.jumbotron
+{
+    justify-content: center;
+    margin: 15px 50px 15px 50px;
+    background-color: rgb(245, 150, 181);
+    border: 0.08em solid black;
+    text-align: center;
+}
+.containerForm
+{
+  border:2px solid black;
+  background-color: rgb(252, 174, 225);
+}
+
+.containerInfo
+{
+  border:2px solid black;
+  background-color: rgb(252, 174, 225);
+}
+.footer
+{ 
+    background-color: rgb(145, 140, 140);
+}
+.foothome{color:black;}
+.foothome:hover{color:rgb(252, 153, 217);}
+.footprof{color:black;}
+.footprof:hover{color:rgb(252, 153, 217);}
+.footetu{color:black;}
+.footetu:hover{color:rgb(252, 153, 217);}
+.footcompet{color:black;}
+.footcompet:hover{color:rgb(252, 153, 217);}
+.footproj{color:black;}
+.footproj:hover{color:rgb(252, 153, 217);}
+.footcv{ color:black;}
+.footcv:hover{color:rgb(252, 153, 217);}
+.footcont{ color:black;}
+.footcont:hover{color:rgb(252, 153, 217);}
